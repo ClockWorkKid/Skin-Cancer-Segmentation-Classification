@@ -1,4 +1,5 @@
-# Skin-Cancer-Segmentation-Classification
+# Skin-Cancer-Segmentation-Classification 
+## S2C-DeLeNet: A parameter transfer based segmentation-classification integration for detecting skin cancer lesions from dermoscopic images
 
 Skin cancer segmentation and classification using the HAM10000 and ISIC dataset archives. 
 
