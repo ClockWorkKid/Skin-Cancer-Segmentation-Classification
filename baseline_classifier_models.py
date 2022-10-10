@@ -186,7 +186,7 @@ def DenseNetClassifier(img_dims, class_type, type_="121", truncation=False):
             input_shape=(img_dims, img_dims, 3),
             pooling=None,
         )
-    elif type_=="201"
+    elif type_=="201":
        model = tf.keras.applications.DenseNet201( 
             include_top=False,
             weights="imagenet",
