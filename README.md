@@ -3,6 +3,10 @@
 
 Skin cancer segmentation and classification using the HAM10000 and ISIC dataset archives. 
 
+Best weights Link: https://drive.google.com/drive/folders/171UExC2ALfO_EylqLkS9h-1Stdj2b0Ew?usp=sharing
+    1. HAM_BV14_DV0_light : Segmentation model weight using EffNet-B4 backbone.
+    2. HAM_segclass_BV14_DV0_light_type_3__en_dec_lighter_unfreeze: Final joint classifier weight.
+
 If you find our work useful, kindly consider citation:
 ```
 @article{ALAM2022106148,
